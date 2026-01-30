@@ -11,6 +11,10 @@ function App() {
        <h1>Welcome to react home </h1>
 
        <h2>welcome to react home 2</h2>
+
+       <h3> Page number three </h3>
+
+       
       </div>
      
     </>
